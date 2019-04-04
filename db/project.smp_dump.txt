@@ -1,0 +1,11 @@
+
+State Machine - |project|control_path:cp|current_state
+Name current_state.S_DRAW_C2 
+current_state.S_DRAW_C1 0 
+current_state.S_DRAW_C2 1 
+
+State Machine - |project|music:comb_54|avconf:avc|mSetup_ST
+Name mSetup_ST.0000 mSetup_ST.0010 mSetup_ST.0001 
+mSetup_ST.0000 0 0 0 
+mSetup_ST.0001 1 0 1 
+mSetup_ST.0010 1 1 0 
